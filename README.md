@@ -44,7 +44,7 @@ npm run build
 | `Demo` |
 | :----: |
 
-[LIVE](https://yummybiteswebsite.netlify.app/)
+[LIVE](https://netflixgpt-012.firebaseapp.com/browse/)
 
 | `Project Highlights` |
 | :------------------: |
