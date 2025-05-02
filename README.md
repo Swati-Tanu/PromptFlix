@@ -1,6 +1,6 @@
 ## ABOUT THE PROJECT
 
-<h1> Vibe Tube </h1>
+<h1> Prompt Flix </h1>
 <div align="center"  width="100" height="100">
   <img src="public/logo.png" alt="html"  height="100"/>
   <br>
